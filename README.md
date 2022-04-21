@@ -9,7 +9,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Build](https://github.com/shan-2000/M2_Embedded_VehicleSafetySystem/actions/workflows/Compile.yml/badge.svg)](https://github.com/shan-2000/M2_Embedded_VehicleSafetySystem/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/shan-2000/M2_Embedded_VehicleSafetySystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M2_Embedded_VehicleSafetySystem/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5dbedda37fc94114aaa94c70682ba090)](https://www.codacy.com/gh/shan-2000/M2_Embedded_VehicleSafetySystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M2_Embedded_VehicleSafetySystem&amp;utm_campaign=Badge_Grade)
+|[![Build](https://github.com/rhen-2001/M2_Embedded_Collision_avoidance_using_ultrasonic sensor_and_potentiometer /actions/workflows/Compile.yml/badge.svg)](https://github.com/rhen-2001/M2_Collision_avoidance_using_ultrasonic sensor_and_potentiometer /actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/rhen-2001/M2_Embedded_Collision_avoidance_using_ultrasonic sensor_and_potentiometer /workflows/cppcheck.yml/badge.svg)](https://github.com/rhen-2001/M2_Embedded_Collision_avoidance_using_ultrasonic sensor_and_potentiometer /actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5dbedda37fc94114aaa94c70682ba090)](https://www.codacy.com/gh/rhen-2001/M2_Embedded_Collision_avoidance_using_ultrasonic sensor_and_potentiometer /dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M2_Collision_avoidance_using_ultrasonic sensor_and_potentiometer&amp;utm_campaign=Badge_Grade)
 
 
 
