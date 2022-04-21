@@ -1,4 +1,4 @@
-# M2_Embedded_Automation_VehicleSafetySystem
+# M2_Collision_avoidance_using_ultrasonic sensor_and_potentiometer 
 ## In Action
 
 |ADC|Motor Output|
