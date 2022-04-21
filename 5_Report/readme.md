@@ -1,8 +1,8 @@
-## Vehicle Safety System
+## Collision_avoidance_using_ultrasonic sensor_and_potentiometer 
 
 # Requirements
 ## Introduction
-   As we are human we need to act upon the cause and consequence. A car is a massive machine with around 30 thousand parts and it produces enormous output power. In case of cause, car is accelerating which increases the speed. Too much of speed may end up in accident or uncontrollable situation. To monitor the real time performance of the car the Console is used. If an error occurs in a car control system it is tedious process to diagnose where the error occured. On considering the mentioned points it is must to use a console in a car. There are two types of vehicle safety system they are, 
+   As we are human we need to act upon the cause and consequence. A car is a massive machine with around 30 thousand parts and it produces enormous output power. In case of cause, car is accelerating which increases the speed. Too much of speed may end up in accident or uncontrollable situation. To monitor the real time performance of the car the Console is used. If an error occurs in a car control system it is tedious process to diagnose where the error occured. On considering the mentioned points it is must to use a console in a car. There are two Collision_avoidance_using_ultrasonic sensor_and_potentiometer they are, 
 * crash mitigation system
 * crash avoidance system
    
@@ -30,7 +30,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 
 ## What
 
-    This vehicle safety system alerts the driver by giving both light and sound signal if any other obstacles comes near to the car. The alerting radius of the car can be modifiable.
+    This system alerts the driver by giving both light and sound signal if any other obstacles comes near to the car. The alerting radius of the car can be modifiable.
 
 ## When
 
