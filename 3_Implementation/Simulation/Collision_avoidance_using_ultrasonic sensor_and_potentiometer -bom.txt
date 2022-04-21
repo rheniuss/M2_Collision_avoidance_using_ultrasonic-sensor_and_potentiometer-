@@ -1,5 +1,5 @@
 
-Circuit: Vehicle_SafetySystem.simu
+Circuit: Collision_avoidance_using_ultrasonic sensor_and_potentiometer .simu
 
 Bill of Materials:
 
