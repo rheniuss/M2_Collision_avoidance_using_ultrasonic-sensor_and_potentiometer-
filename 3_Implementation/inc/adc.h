@@ -1,13 +1,3 @@
-/**
- * @file adc.h
- * @author Shanmugavadivel A
- * @brief Functions to handle ADC peripheral
- * @version 0.1
- * @date 2021-12-02
- * 
- *
- * 
- */
 #ifndef ADC_H_
 #define ADC_H_
 #ifndef __AVR_ATmega328__
