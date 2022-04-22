@@ -2,7 +2,7 @@
 
 
 ## Badges
-
+* codacy - [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ad98c5d96ef14c9cb7ffd10616439e4f)](https://www.codacy.com/gh/rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-&amp;utm_campaign=Badge_Grade)
 
 
 ## In Action
