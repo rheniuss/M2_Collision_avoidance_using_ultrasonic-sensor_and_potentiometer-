@@ -6,6 +6,8 @@
 
 ## cppcheck
  [![Cpp-Check](https://github.com/rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-/actions/workflows/c-cpp.yml)
+ 
+ [![Analysis](https://github.com/rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-/actions/workflows/analysis.yml/badge.svg)](https://github.com/rheniuss/M2_Collision_avoidance_using_ultrasonic-sensor_and_potentiometer-/actions/workflows/analysis.yml)
 
 
 ## In Action
